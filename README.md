@@ -1,0 +1,1 @@
+Based on https://www.jclabs.co.uk/create-a-react-wordpress-theme-using-babel-and-webpack/
